@@ -62,14 +62,14 @@ pnpm releases:all     // for All three
 
 Format.
 ```
-check:format
-fix:format
+pnpm check:format
+pnpm fix:format
 ```
 
 Lint.
 ```
-check:lint
-fix:lint
+pnpm check:lint
+pnpm fix:lint
 ```
 
 ## Author
